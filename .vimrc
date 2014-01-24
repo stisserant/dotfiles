@@ -1,13 +1,10 @@
 set nocompatible
-set nu
+set number
 syntax enable
 set bg=dark
-colorscheme desert
+" colorscheme desert
 " Commentaire
 set hls
-
-set highlight
-
 
 
 
