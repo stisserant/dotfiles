@@ -5,6 +5,8 @@ set bg=dark
 " colorscheme desert
 " Commentaire
 set hls
+" comportement du backspace
+set bs=2
 
 
 
